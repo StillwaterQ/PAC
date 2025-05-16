@@ -25,7 +25,7 @@ pac/
 ├── KL_algo.py        # Improved KL algorithm for quantum circuit partitioning
 ├── settings.py       # Experiment and hardware configuration settings
 ├── requirements.txt  # Python dependencies (pip format)
-``` bash
+``` 
 
 ## Citation
 If you use PAC in your work, please cite: [PAC]()
